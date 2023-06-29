@@ -219,5 +219,5 @@ app.get("/", (req, res) => {
 });
 
 app.listen(port, () => {
-  console.log(`Bentilzone Restaurant is running on port ${port}`);
+  console.log(`Bentilzone Restaurant server side  is running on port ${port}`);
 });
